@@ -3,4 +3,4 @@ just learning git-hub things
 
 Hi everyone!
 
-Mukul this side, I like php and laravel and after that i will start learning node.js
+Mukul this side, I love to code web in php and laravel and now i am learning node.js
